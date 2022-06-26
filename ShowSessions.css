@@ -20,7 +20,7 @@
 .ShowSessions-list-headerContainer {
   margin-bottom: 20px !important;
 }
-.ShowSessions-list-headerContainer .ShowSessions-list-avatarWrapper {
+.ShowSessions-list-item .ShowSessions-list-avatarWrapper {
   margin: 0 10px 0 0 !important;
   order: 0 !important;
 }
