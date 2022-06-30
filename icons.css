@@ -239,13 +239,18 @@ body #app-mount .sidebar-nqHbhN, body #app-mount .layer-86YKbF ~ .layer-86YKbF .
 .sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls=CustomCSS-tab i]::before {
   -webkit-mask: url("https://aenoo.github.io/Discordicons/icons/settings/personal/customCss.svg") center/contain no-repeat;
 }
-.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls=Plugins-tab i]::before {
+.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls=Plugins-tab i]::before,
+.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls=cumcord_plugins-tab i]::before,
+.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls=pc-modulemanager-plugins-tab i]::before {
   -webkit-mask: url("https://aenoo.github.io/Discordicons/icons/settings/personal/plugins.svg") center/contain no-repeat;
 }
-.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls=Themes-tab i]::before {
+.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls=Themes-tab i]::before,
+.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls=ysink_stain_cumstain-tab i]::before,
+.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls=pc-modulemanager-themes-tab i]::before {
   -webkit-mask: url("https://aenoo.github.io/Discordicons/icons/settings/personal/themes.svg") center/contain no-repeat;
 }
-.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls=PluginRepo-tab i]::before {
+.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls=PluginRepo-tab i]::before,
+.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls=ysink_zone_cumzone-tab i]::before {
   -webkit-mask: url("https://aenoo.github.io/Discordicons/icons/settings/personal/pluginRepo.svg") center/contain no-repeat;
 }
 .sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls=ThemeRepo-tab i]::before {
@@ -269,9 +274,6 @@ body #app-mount .sidebar-nqHbhN, body #app-mount .layer-86YKbF ~ .layer-86YKbF .
 }
 .sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls=pc-spotify-tab i]::before {
   -webkit-mask: url("https://aenoo.github.io/Discordicons/icons/settings/personal/spotify.svg") center/contain no-repeat;
-}
-.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls=pc-modulemanager-plugins-tab i]::before {
-  -webkit-mask: url("https://aenoo.github.io/Discordicons/icons/settings/personal/plugins.svg") center/contain no-repeat;
 }
 .sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls=pc-modulemanager-themes-tab i]::before {
   -webkit-mask: url("https://aenoo.github.io/Discordicons/icons/settings/personal/themes.svg") center/contain no-repeat;
