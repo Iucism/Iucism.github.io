@@ -54,11 +54,7 @@
   -webkit-mask: url("https://aenoo.github.io/Discordicons/icons/settings/personal/discordNitro.svg") center/contain no-repeat;
   color: #7289da;
 }
-.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls="Nitro Server Boost-tab" i]::before {
-  -webkit-mask: url("https://aenoo.github.io/Discordicons/icons/settings/both/serverBoost.svg") center/contain no-repeat;
-  color: #FF6BFA;
-}
-.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls=Nitro-Server-Boost-tab i]::before {
+.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls="Nitro Server Boost-tab" i]::before, .sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls=Nitro-Server-Boost-tab i]::before {
   -webkit-mask: url("https://aenoo.github.io/Discordicons/icons/settings/both/serverBoost.svg") center/contain no-repeat;
   color: #FF6BFA;
 }
